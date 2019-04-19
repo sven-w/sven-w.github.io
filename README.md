@@ -1,4 +1,4 @@
 # wiki
 personal wiki
 ## hardware engineering
-[stanard resistor value](./standard-resistor-capacitor-value.pdf)
+[stanard resistor value](https://ecee.colorado.edu/~mcclurel/resistorsandcaps.pdf)
